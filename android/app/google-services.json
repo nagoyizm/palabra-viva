@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795683523172",
+    "project_id": "palabra-viva-db",
+    "storage_bucket": "palabra-viva-db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795683523172:android:bb3d7b1560f7446a10ad71",
+        "android_client_info": {
+          "package_name": "com.palabraviva.diariocristiano"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRKNmF6WFVYO6FfB2D11ecJvHgWsha83I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

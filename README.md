@@ -1,4 +1,4 @@
-# Palabra Viva - App de Versículos Diarios
+# Palabra Eterna - App de Versículos Diarios
 
 Una aplicación web moderna e inspiradora que te entrega una palabra de aliento diaria, potenciada por Inteligencia Artificial.
 
